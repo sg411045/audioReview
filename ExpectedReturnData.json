@@ -1,0 +1,7 @@
+{
+  "taskInput": {
+    "taskObject": "s3://<bucket>/source/<audio.mp3>",
+    "taskObjectTranscript": "<some text>"
+  },
+  "isHumanAnnotationRequired": true
+}
